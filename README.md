@@ -10,4 +10,3 @@ Builder of scalable architectures, enabler of high-impact teams, and strong beli
 
 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/williamlepinski/)
-- [Twitter](https://twitter.com/lepinski)
