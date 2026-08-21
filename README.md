@@ -4,7 +4,7 @@ Staff Software Engineer based in [Dublin, Ireland](https://www.google.com/maps/p
 
 I specialize in **growth analytics, experimentation platforms, and data-driven systems at scale**. With 20+ years across startups and global companies, I work at the intersection of **product, data, and engineering**, building systems that enable fast, reliable decision-making.
 
-Currently working at **Maze**, after nearly 7 years at **HubSpot**, where I led initiatives in **Growth Data & Experimentation** — including large-scale analytics infrastructure (30B+ events/month), experimentation workflows, and internal platforms powering acquisition, activation, and retention.
+Currently working at **Synthesia**, after nearly 7 years at **HubSpot**, where I led initiatives in **Growth Data & Experimentation** — including large-scale analytics infrastructure (30B+ events/month), experimentation workflows, and internal platforms powering acquisition, activation, and retention.
 
 Builder of scalable architectures, enabler of high-impact teams, and strong believer in clarity, curiosity, and pragmatic execution.
 
